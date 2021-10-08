@@ -1,0 +1,17 @@
+# Case data science
+## How to submit:
+
+1. Upload your solution to (private) Github Repository or BitBucket or Gitlab if you work for OGD.
+2. Invite software@ogd.nl to it so we can assess you work.
+
+## Assignment
+Use the Titanic dataset (in the repository) to train a model that predicts if a person will survive the Titanic disaster. Make the model available through an API.
+
+* The repository should include everything required (including instructions) to be run (for example a Python requirements file).
+* Apply analysis and preproccesing to the data.
+* Use the training set to train your model and use the test set to determine the performance.
+* Select an algorithm to train a model and assess its performance.
+* Make the model available through an API.
+
+### Tips
+* Showcase your strengths! Whether it's data analysis, algorithm selection or creating a feature complete API.
